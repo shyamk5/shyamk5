@@ -2,16 +2,16 @@
 <img src="https://shyamk5.github.io/imshyamk/src/Images/avtar.png" width="150" alt="imshyamk">
 ## 🚀 About Me
 
-I am a recent graduate with a strong foundation in Java programming and web development. Equipped with a deep understanding of both front-end and back-end technologies, I am eager to apply my skills and creativity to build innovative and user-centric web applications. 
+Results-driven Software Engineer with hands-on experience delivering full-stack web applications and client-facing solutions. Proven ability to build scalable systems, write clean, efficient code, and solve real-world problems using Java, Python, and modern frameworks. Passionate about turning complex requirements into high-impact, production-ready software.
 
-Whether it's designing intuitive user interfaces, implementing robust server-side logic, or optimizing database performance, I am driven to craft modern and scalable web applications that deliver exceptional results. As a Fresher Full Stack Java Developer, I am poised to make a meaningful contribution to the world of web development, and I am excited about the opportunities that lie ahead.
-
-- Frontend development: HTML, CSS, JavaScript, Angular
-- Language:  Java, J2SE, J2EE, SQL
-- Database: Oracle 19c, MySQL
-- Version Control: Git, GitHub
-- IDE's: Eclipse, STS, IntelliJ
-- JPA Framework: Spring Boot, Spring MVC, Hibernate
+- Programming Languages: Java, Python, SQL, JavaScript
+- Web Technologies: HTML5, CSS3, Bootstrap, JSP, Servlets
+- Frameworks: Spring Boot, Spring MVC, Angular
+- Databases: MySQL, Oracle 19c, SQLite
+- Tools & Platforms: Git, GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse, Apache Tomcat
+- Cloud & DevOps: Netlify, Hostinger
+- Software Development: Agile methodologies, REST API design, MVC Architecture, Unit Testing
+- Core CS Concepts: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Multithreading, Operating Systems, DBMS
 
 ## 🔧 Technologies & Tools
 
@@ -33,11 +33,7 @@ Whether it's designing intuitive user interfaces, implementing robust server-sid
 
 ## 🌱 I'm currently learning
 
-I'm constantly learning new technologies and exploring new areas. Currently, I'm diving deep into:
-
-- SpringBoot
-- MicroServices Cloud
-- and, Many Other Technologies...
+I'm constantly learning new technologies and exploring new areas.
 
 ## 📈 GitHub Stats
 
